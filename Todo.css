@@ -1,0 +1,16 @@
+body{
+	background:lightgrey;
+}
+
+li{
+	border: 2px solid tan;
+}
+
+#special{
+	color:green;
+	background:linen;
+}
+
+.completed{
+	text-decoration: line-through;
+}
