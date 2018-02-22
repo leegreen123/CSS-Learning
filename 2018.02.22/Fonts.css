@@ -1,0 +1,42 @@
+h1 {
+	text-align: center;
+}
+
+td {
+	width:100px;
+	height: 100px;
+}
+
+table {
+	margin: auto;
+}
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+/*p {
+
+	content - width and height
+	
+	width:200px;
+
+	Border
+	
+	border: 2px solid blue;
+	
+	Padding I can play with left, right blah blah same with border
+
+	padding: 10px;
+	
+	Margin (top right bottom left) value
+		margin: 20px 40px 40px 100px;
+	(top, bottom) (right, left)
+	margin:0 auto ;
+}*/
